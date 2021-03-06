@@ -12,27 +12,22 @@ header-includes: |
 \def\arraystretch{1.5}
 
 \begin{center}
-    \begin{tabular}{ |l|l| }
+    \begin{tabular}{ ll }
         \hline
-        \multicolumn{2}{ |c| } {\Large Sprawozdanie} \\
+        \hline
+        \multicolumn{2}{ c } {\Large Sprawozdanie} \\
+        \hline
         \hline
         Nazwa przedmiotu & Inżynieria systemów informacyjnych \\
-        \hline
         Rok akademicki & 2020-2021 \\
-        \hline
         Imię, nazwisko & Grzegorz Bujak \\
-        \hline
         Liczba zadań zaplanowanych & 0 \\
-        \hline
         Liczba zadań oddanych & 0 \\
-        \hline
         Termin zajęć & Piątki nieparzyste 10:00-12:00 \\
-        \hline
         Data & data \\
         \hline
-        \multicolumn{2}{ |l| } {Studia stacjonarne, semestr letni} \\
-        \hline
-    \end{tabular}
+        \multicolumn{2}{c}{Studia stacjonarne, semestr letni} \\
+    \end{tabular} \\
 \end{center}
 
 \FloatBarrier
