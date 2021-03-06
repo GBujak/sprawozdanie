@@ -9,11 +9,12 @@ header-includes: |
     \setminted{numbers=left}
 ---
 
+\def\arraystretch{1.5}
+
 \begin{center}
-    {\Huge Sprawozdanie} \\
-    \vspace{1cm}
-    \def\arraystretch{1.5}
     \begin{tabular}{ |l|l| }
+        \hline
+        \multicolumn{2}{ |c| } {\Large Sprawozdanie} \\
         \hline
         Nazwa przedmiotu & Inżynieria systemów informacyjnych \\
         \hline
